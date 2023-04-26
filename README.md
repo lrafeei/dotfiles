@@ -6,6 +6,6 @@ To use .vimrc in your system, run this command:
 
 To use .pre-commit-config.yaml in your github repository, run these commands (just once to install/initialize):
 
-``pip install pre-commit``
+``pip install pre-commit``  
 ``pre-commit install``
 
